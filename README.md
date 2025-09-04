@@ -1,5 +1,5 @@
 # Awesome-3D-Paremetric-Curves
-Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, exciting methods on 3d paremetric curve prediction and reconstruction. It contains papers, codes, datasets, evaluations, and analyses.
+Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, exciting methods on 3d paremetric curve prediction and reconstruction. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding 3D-Paremetric-Curves, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact gzrer201@gmail.com. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
 
 ## Reference
@@ -44,4 +44,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ### Point Cloud-based Method
 
+
+## Contributors
+
+<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
