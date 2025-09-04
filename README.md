@@ -23,3 +23,25 @@ If you find this repository helpful for your research, we would greatly apprecia
 }
 
 ```
+
+
+
+## Image-based Method
+
+## NERF/3DGS reconstruction
+
+| Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
+| ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.06 | **Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction** | ICCV 2025  | [link](https://arxiv.org/abs/2506.21401) | [link](https://github.com/zhirui-gao/Curve-Gaussian) |
+
+| 2025.02 | **A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos** | arXiv   | [link](https://arxiv.org/abs/2502.15806) |- |
+
+
+
+
+
+## Feedforward Models
+
+### Point Cloud-based Method
+
+
