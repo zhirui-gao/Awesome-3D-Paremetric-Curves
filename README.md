@@ -11,7 +11,7 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2025.06 | **Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction** | ICCV 2025  | [link](https://arxiv.org/abs/2506.21401) | [link](https://github.com/zhirui-gao/Curve-Gaussian) |
-
+| 2023.12| **NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**| CVPR 2023| [link]([https://arxiv.org/abs/2506.21401](https://arxiv.org/abs/2303.07653)) | [link](https://github.com/yunfan1202/NEF_code) |
  |- |
 
 
@@ -48,8 +48,6 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 
 ## Contributors
-
-<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
