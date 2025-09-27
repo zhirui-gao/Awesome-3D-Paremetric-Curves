@@ -12,11 +12,9 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2025.06 | **Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction** | ICCV 2025  | [link](https://arxiv.org/abs/2506.21401) | [link](https://github.com/zhirui-gao/Curve-Gaussian) |
 |2025.03| **SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction** | CVPR 2025 | [link](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_SGCR_Spherical_Gaussians_for_Efficient_3D_Curve_Reconstruction_CVPR_2025_paper.pdf) | [link](https://github.com/Martinyxr/SGCR)|
-
 |2025.03| **SketchSplat: 3D Edge Reconstruction via Differentiable Multi-view Sketch Splatting** | ICCV 2025| [link](https://arxiv.org/pdf/2503.14786)| [link](https://github.com/OceanYing/SketchSplat)|
 |2024.09| **EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting** | WACV 2025| [link](https://arxiv.org/abs/2409.12886)| [link](https://github.com/kunalchelani/EdgeGaussians)|
 |2024.05| **3D Neural Edge Reconstruction** | CVPR2024| [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_3D_Neural_Edge_Reconstruction_CVPR_2024_paper.pdf)| [link](https://github.com/cvg/EMAP)|
-
 | 2023.12| **NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**| CVPR 2023| [link](https://arxiv.org/abs/2506.21401) | [link](https://github.com/yunfan1202/NEF_code) |
 
 
@@ -33,9 +31,7 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 |2023.03| **NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud** | CVPR 2023| [link](https://arxiv.org/abs/2303.16465)| [link](https://dongdu3.github.io/projects/2023/NerVE/)|
-
 |2022.12| **Reconstructing Feature-line Equipped Polygonal Surface** | IGGRAPH Asia 2022| [link](https://arxiv.org/abs/2212.03600)| [link](https://github.com/Xrvitd/RFEPS)|
-
 |2008.12|**CurveFusion: Reconstructing Thin Structures from RGBD Sequences**| TOG 2008| [link](https://lingjie0206.github.io/papers/curvefusion/curvefusion.pdf)| --- |
 
 ### Related works
