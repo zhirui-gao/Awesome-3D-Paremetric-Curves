@@ -4,9 +4,9 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 
 
 
-## Image-based Method
 
-## NERF/3DGS reconstruction
+
+## NERF/3DGS Reconstruction
 
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
@@ -21,12 +21,13 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 
 
 
-## Feedforward Models
+## Feedforward Models from Images
+
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 
 
-### Point Cloud-based Method
+### Point Cloud-based Methods
 
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
@@ -34,7 +35,7 @@ Awesome-3D-Paremetric-Curves is a collection of state-of-the-art, novel, excitin
 |2022.12| **Reconstructing Feature-line Equipped Polygonal Surface** | IGGRAPH Asia 2022| [link](https://arxiv.org/abs/2212.03600)| [link](https://github.com/Xrvitd/RFEPS)|
 |2008.12|**CurveFusion: Reconstructing Thin Structures from RGBD Sequences**| TOG 2008| [link](https://lingjie0206.github.io/papers/curvefusion/curvefusion.pdf)| --- |
 
-### Related works
+### Related Works
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 |2025.06| **BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting** | ICCV 2025| [link](https://arxiv.org/abs/2506.22099)| [link](https://github.com/fudan-zvg/BezierGS)|
